@@ -1,6 +1,4 @@
-# 🌱 Projeto Agroquímicos
-
-![Agroquímicos](https://images.unsplash.com/photo-1612831664653-60f9a1e5113a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWdyb3Rvw6FtaWNvfGVufDB8fDB8fA%3D%3D&ixlib=rb-4.0.3&q=80&w=1080)
+# 🌱 Projeto Agrotóxicos
 
 Este projeto analisa dados de **agrotóxicos** no Brasil, utilizando Python e Jupyter Notebook.  
 O foco é **organizar, limpar e visualizar informações** sobre substâncias, ingredientes ativos e autorizações.
